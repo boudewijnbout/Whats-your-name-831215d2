@@ -34,7 +34,7 @@
 <?php
 
 // Submit Check
-if (isset($_POST['submit'])) {
+    if (isset($_POST['submit'])) {
 
     $voornaam = $_POST['voornaam'];
 
